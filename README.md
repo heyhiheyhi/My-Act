@@ -1,2 +1,3 @@
-# My Code for A.I
- clone drive
+# My Act
+ 
+ 교육과정 중 c++언어와 파이썬으로 만들어본 api 입니다
